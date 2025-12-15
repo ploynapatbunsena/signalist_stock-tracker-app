@@ -72,7 +72,7 @@ export const MARKET_OVERVIEW_WIDGET_CONFIG = {
         { s: 'NASDAQ:GOOGL', d: 'Alphabet' },
         { s: 'NASDAQ:MSFT', d: 'Microsoft' },
         { s: 'NASDAQ:NVDA', d: 'Nvedia' },
-        { s: 'NYSE:ORCL', d: 'Oracle Corp' },
+        { s: 'NASDAQ:RKLB', d: 'Rocket Lab' },
         { s: 'NASDAQ:INTC', d: 'Intel Corp' },
       ],
     },
